@@ -1,3 +1,4 @@
 @@||app.localhost.direct^
 @@||register.appattest.apple.com^
 @@||graph.instagram.com^
+@@||mcs-i18n.tiktok.com^
